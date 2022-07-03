@@ -1,0 +1,24 @@
+1. Go through different functions and explain what they are for
+2. Change background image
+3. Change buttons colors
+4. Change buttons function (left right and the other way around)
+
+
+Summary of Program:
+===================
+Init:
+	Run
+		Act
+			Gameover
+			Pressing keys
+			Out of screen
+			New shot
+			Move shot
+			PauseGame
+			Reset
+			MoveEnemie
+			PlayerIntersectEnemie
+			ShotIntersectEnemie
+	Repaint
+		RequestAnimationFrame
+		Paint
